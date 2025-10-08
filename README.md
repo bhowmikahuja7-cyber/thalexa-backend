@@ -1,1 +1,0 @@
-# thalexa-backend
